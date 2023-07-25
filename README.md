@@ -1,0 +1,1 @@
+Adds a small resource that turns the spyglass into a flashlight. Requires [Canvas](https://modrinth.com/mod/canvas) and a pipeline shader that supports it (The default Canvas pipelines work, but you can also use [Forget-me-not](https://modrinth.com/shader/forgetmenot), [Lumi Lights](https://spiralhalo.github.io/), and more).
