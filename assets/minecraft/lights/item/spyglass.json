@@ -1,0 +1,9 @@
+{
+	"intensity": 1.0,
+	"red": 1.0,
+	"green": 1.0,
+	"blue": 1.0,
+	"worksInFluid": true,
+	"innerConeAngleDegrees": 30,
+	"outerConeAngleDegrees": 60
+   }
